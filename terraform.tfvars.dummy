@@ -1,0 +1,9 @@
+instance_token = "<insert variable here>"
+
+endpoint = "<insert variable here>"
+
+secret1 = "<insert variable here>"
+
+secret2 = "<insert variable here>"
+
+userpass_pw = "<insert variable here>"
